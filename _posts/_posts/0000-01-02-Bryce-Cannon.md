@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Turtles are awesome
+I enjoyed watching the superbowl
 Use the left arrow to go back!
